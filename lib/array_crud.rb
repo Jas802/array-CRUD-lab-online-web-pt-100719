@@ -11,7 +11,7 @@ array.push()
 end
 
 def add_element_to_start_of_array(array, element)
-array.unshift("Jared Goff")
+array.unshift()
 end
 
 def remove_element_from_end_of_array(array)
