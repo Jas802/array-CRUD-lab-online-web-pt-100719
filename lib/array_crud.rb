@@ -15,7 +15,7 @@ quarter_backs.unshift("Jared Goff")
 end
 
 def remove_element_from_end_of_array(array)
-quarter_backs.pop()
+quarter_backs.pop
 end
 
 def remove_element_from_start_of_array(array)
