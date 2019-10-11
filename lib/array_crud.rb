@@ -31,5 +31,5 @@ array.first
 end
 
 def retrieve_last_element_from_array(array)
-quarter_backs[-1]
+array[-1]
 end
