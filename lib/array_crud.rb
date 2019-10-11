@@ -7,11 +7,11 @@ quarter_backs = ["Tom Brady", "Aaron Rodgers", "Russel Wilson", "Drew Brees"]
 end
 
 def add_element_to_end_of_array(array, element)
-array << "Patrick Mahomes"
+array.push("Patrick Mahomes")
 end
 
 def add_element_to_start_of_array(array, element)
-quarter_backs.unshift("Jared Goff")
+array.unshift("Jared Goff")
 end
 
 def remove_element_from_end_of_array(array)
